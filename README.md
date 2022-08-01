@@ -1,4 +1,4 @@
-# BinomialCoefficientRecursive
+## BinomialCoefficientRecursive
 
 The n choose k formula: C (n , k) = n! / [ (n-k)! k! ]  
 C++ recursive solution  
